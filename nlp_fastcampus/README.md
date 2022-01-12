@@ -1,2 +1,5 @@
-# Fastcampus NLP A-Z Package
-- basic
+# Fastcampus NLP A-Z Package  
+
+## Basic
+- pytorch basic
+- 
