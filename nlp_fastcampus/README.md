@@ -4,3 +4,4 @@
 - pytorch basic
 - NeuralNetwork
 - Gradient Descent
+- Linear Regression
