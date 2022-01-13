@@ -3,3 +3,4 @@
 ## Basic
 - pytorch basic
 - NeuralNetwork
+- Gradient Descent
