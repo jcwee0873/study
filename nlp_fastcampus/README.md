@@ -6,4 +6,4 @@
 - Gradient Descent
 - Linear Regression
 - Logistic Regression
-- Deep Neuran Network(Regression)
+- Deep Neural Network(Regression)
