@@ -7,3 +7,5 @@
 - Linear Regression
 - Logistic Regression
 - Deep Neural Network(Regression)
+- Stochastic Gradient Descent
+- Momentum, Adam
