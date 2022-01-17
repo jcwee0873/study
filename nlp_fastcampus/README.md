@@ -9,6 +9,6 @@
 - Deep Neural Network(Regression)
 - Stochastic Gradient Descent
 - Momentum, Adam
-- overfitting
+- Overfitting
 - Binary Classification
 - Multi Classification
