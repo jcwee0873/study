@@ -1,7 +1,7 @@
 # Fastcampus NLP A-Z Package  
 
 ## Basic
-- pytorch basic
+- Pytorch basic
 - NeuralNetwork
 - Gradient Descent
 - Linear Regression
@@ -9,3 +9,6 @@
 - Deep Neural Network(Regression)
 - Stochastic Gradient Descent
 - Momentum, Adam
+- overfitting
+- Binary Classification
+- Multi Classification
