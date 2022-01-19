@@ -1,6 +1,6 @@
 # Fastcampus NLP A-Z Package  
 
-## Basic
+## Basic / ~ 2022. 1. 19
 - Pytorch basic
 - NeuralNetwork
 - Gradient Descent
@@ -12,3 +12,9 @@
 - Overfitting
 - Binary Classification
 - Multi Classification
+- Regularization
+- Module
+  
+  
+## NLP Basic
+- 
