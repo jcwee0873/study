@@ -1,6 +1,6 @@
 # Fastcampus NLP A-Z Package  
 
-## Basic / ~ 2022. 1. 19
+## Basic
 - Pytorch basic
 - NeuralNetwork
 - Gradient Descent
