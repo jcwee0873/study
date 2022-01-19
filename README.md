@@ -6,5 +6,5 @@ study code
 - vol. 1
   
 ## NLP Fastcampus
-- DeepLearning Basic(~ 22. 1. 19)
+- DeepLearning Basic
 - NLP Basic
