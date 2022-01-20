@@ -1,4 +1,4 @@
-# study
+# Study
 study code
   
   
