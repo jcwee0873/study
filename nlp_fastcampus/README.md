@@ -17,4 +17,5 @@
   
   
 ## NLP Basic
-- 
+- AutoEncoder (Encoder, Decoder)
+- Probabilistic Perspective
