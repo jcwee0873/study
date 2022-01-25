@@ -19,3 +19,10 @@
 ## NLP Basic
 - AutoEncoder (Encoder, Decoder)
 - Probabilistic Perspective
+- Geometric Perspective
+- Dataset
+- Ignite
+- CNN
+- Computer Vison & Transfer Learning
+- RNN
+- Gradient Clipping
