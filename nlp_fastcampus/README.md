@@ -26,3 +26,6 @@
 - Computer Vison & Transfer Learning
 - RNN
 - Gradient Clipping
+- NLP Preprocessing
+- Embedding
+- Embedding Layer
