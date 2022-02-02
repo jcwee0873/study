@@ -27,5 +27,5 @@
 - RNN
 - Gradient Clipping
 - NLP Preprocessing
-- Embedding
+- Word Embedding
 - Embedding Layer
