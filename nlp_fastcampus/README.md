@@ -29,3 +29,5 @@
 - NLP Preprocessing
 - Word Embedding
 - Embedding Layer
+- Text Classification (RNN, CNN)
+- Appendix (BERT)
