@@ -31,3 +31,9 @@
 - Embedding Layer
 - Text Classification (RNN, CNN)
 - Appendix (BERT)
+
+## NLG
+- LanguageModeling
+- Neural Network Natural Language
+- Preprocessing
+- Seq2Seq
