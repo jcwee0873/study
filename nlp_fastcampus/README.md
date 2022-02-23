@@ -37,3 +37,6 @@
 - Neural Network Natural Language
 - Preprocessing
 - Seq2Seq
+- Inference
+- Evaluation
+- Beam Search
