@@ -1,0 +1,21 @@
+span {
+    color: red;
+    background-color: yellow;
+}
+
+.korea {
+    color: aqua;
+}
+
+div {
+    background-color: green;
+}
+
+table {}
+
+tr {}
+
+td {
+    border: 1px solid red;
+    padding: 10px;
+}
