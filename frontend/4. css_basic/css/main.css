@@ -1,0 +1,36 @@
+/* @import url("/css/box.css"); */
+/* 고의로 로드가 늦길 원할때 사용? */
+
+* {
+    color: red;
+}
+
+li {
+    color: blue;
+}
+
+span.orange {
+    color: orange;
+}
+
+#carrot {
+    color: aqua;
+}
+
+/* 자식 선택자 */
+ul>.orange {
+    color: green;
+}
+
+/* 하위 선택자 */
+div .orange {
+    color: blueviolet;
+}
+
+.orange+div {
+    color: lightskyblue;
+}
+
+.orange~li {
+    color: brown;
+}
