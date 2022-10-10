@@ -71,7 +71,7 @@ input:focus {
 /* .fruits span:first-child {
     color: red;
 } */
-.fruits div:first-child {
+/* .fruits div:first-child {
     color: green;
 }
 
@@ -101,4 +101,23 @@ input:focus {
 
 [data-fruit-name] {
     color: red;
+} */
+
+.animal {
+    color: red;
+}
+
+.parent {
+    width: 300px;
+    height: 200px;
+    background-color: orange;
+}
+
+.child {
+    width: 100px;
+    height: inherit;
+    background-color: inherit;
+    position: fixed;
+    top: 100px;
+    right: 10px;
 }
