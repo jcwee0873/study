@@ -1,7 +1,7 @@
 /* @import url("/css/box.css"); */
 /* 고의로 로드가 늦길 원할때 사용? */
 
-* {
+/* * {
     color: red;
 }
 
@@ -15,15 +15,15 @@ span.orange {
 
 #carrot {
     color: aqua;
-}
+} */
 
 /* 자식 선택자 */
-ul>.orange {
+/* ul>.orange {
     color: green;
-}
+} */
 
 /* 하위 선택자 */
-div .orange {
+/* div .orange {
     color: blueviolet;
 }
 
@@ -33,4 +33,72 @@ div .orange {
 
 .orange~li {
     color: brown;
+} */
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    transition: 1s;
+}
+
+.box:hover {
+    width: 300px;
+    background-color: royalblue;
+}
+
+.box:focus {
+    height: 300px;
+    background-color: teal;
+}
+
+.box::before {
+    content: "앞!";
+}
+
+.box::after {
+    content: "";
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-color: aqua;
+}
+
+input:focus {
+    background-color: orange;
+}
+
+/* .fruits span:first-child {
+    color: red;
+} */
+.fruits div:first-child {
+    color: green;
+}
+
+.fruits h3:last-child {
+    color: blue;
+}
+
+.fruits *:nth-child(2n + 1) {
+    color: red;
+}
+
+.fruits *:not(span) {
+    color: orange;
+}
+
+[disabled] {
+    color: blue;
+}
+
+[type="password"] {
+    color: red;
+}
+
+[type="text"] {
+    background-color: orange;
+}
+
+[data-fruit-name] {
+    color: red;
 }
