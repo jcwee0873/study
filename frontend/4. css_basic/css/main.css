@@ -103,7 +103,7 @@ input:focus {
     color: red;
 } */
 
-.animal {
+/* .animal {
     color: red;
 }
 
@@ -120,4 +120,41 @@ input:focus {
     position: fixed;
     top: 100px;
     right: 10px;
+} */
+
+/* div {
+    color: red !important;
+}
+
+#color_yellow {
+    color: yellow;
+}
+
+.color_green {
+    color: green;
+}
+
+div {
+    color: blue;
+}
+
+* {
+    color: darkblue;
+}
+
+body {
+    color: violet;
+} */
+
+div {
+    font-size: 70px;
+}
+
+
+div.hello {
+    color: red;
+}
+
+.hello {
+    color: green;
 }
