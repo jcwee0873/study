@@ -1,0 +1,19 @@
+/* div {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+} */
+
+.parent {
+    width: 300px;
+    height: 200px;
+    background-color: royalblue;
+}
+
+.child {
+    /* width: auto;
+    max-width: 300px; */
+    min-width: 400px;
+    height: 100px;
+    background-color: orange;
+}
